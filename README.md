@@ -1,0 +1,2 @@
+# minecraft-configs
+Minecraft configs
